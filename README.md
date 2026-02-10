@@ -3,7 +3,7 @@
 💻 Future Computer Engineer | Web & Back-End Developer | DevOps Enthusiast  
 🎓 Engineering student at the **National School of Applied Sciences of Tangier (ENSAT)**  
 📍 Tangier–Tetouan, **Morocco** 🇲🇦  
-📅 Currently seeking a **PFE (final-year) internship** in **Web Development**  
+📅 Currently seeking a **PFE (final-year) internship** in **Web Development** 
 
 ---
 
