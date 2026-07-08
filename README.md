@@ -8,9 +8,9 @@
 
 ## 🚀 About Me
 
-I'm a Full Stack Software Engineer specializing in **Java**, **Spring Boot**, **Angular**, and **NestJS**.
+I'm a Full Stack Software Engineer specializing in **Java**, **Spring Boot**, and **Angular**.
 
-During my Final Year Internship at **ISICOD** (Feb – Jul 2026), I contributed to a modular **ERP built on a Microservices Architecture**: backend and frontend development, REST APIs, UML modeling, and centralized authentication with **Keycloak** (OAuth2/OIDC, PKCE flow, BFF pattern, custom auth theme, role/group management via Keycloak Admin Client).
+During my Final Year Internship at **ISICOD** (Feb – Jul 2026), I contributed to a modular **ERP built on a Microservices Architecture**: backend with **Spring Boot** and frontend with **Angular** development, REST APIs, UML modeling, and centralized authentication with **Keycloak** (OAuth2/OIDC, PKCE flow, BFF pattern, custom auth theme, role/group management via Keycloak Admin Client).
 
 I previously built a JWT-based authentication service with **NestJS** at Aepex Technologies, and developed **Fabtrack**, a Laravel web app for digitalizing industrial production tracking, at PC Design.
 
@@ -36,7 +36,7 @@ I enjoy designing scalable, secure, and maintainable applications while continuo
 - 🔐 Authentication & Authorization (Keycloak, OAuth2, OIDC, PKCE, JWT)
 - 🏗️ Microservices Architecture & API Gateway
 - 🔄 REST APIs
-- 🐘 PostgreSQL, MySQL & Redis
+- 🐘 PostgreSQL, MySQL 
 - 🚀 Docker
 - 📬 Apache Kafka
 - 🔀 Git, GitHub, GitLab & GitHub Actions
