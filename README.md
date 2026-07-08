@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Chaimae Azzouz!
 
-💻 Full Stack Software Engineer | Java • Spring Boot • Angular • NestJS
+💻 Full Stack Software Engineer | Java • Spring Boot • Angular
 🎓 Computer Engineering Graduate — National School of Applied Sciences of Tangier (ENSAT), 2026
 📍 Tétouan, Morocco 🇲🇦
 
