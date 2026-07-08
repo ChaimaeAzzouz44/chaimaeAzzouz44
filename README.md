@@ -1,16 +1,18 @@
 # Hi there 👋, I'm Chaimae Azzouz!
 
-💻 Full Stack Software Engineer | Java • Spring Boot • Angular  
-🎓 Computer Engineering Graduate from the National School of Applied Sciences of Tangier (ENSAT)  
+💻 Full Stack Software Engineer | Java • Spring Boot • Angular • NestJS
+🎓 Computer Engineering Graduate — National School of Applied Sciences of Tangier (ENSAT), 2026
 📍 Tétouan, Morocco 🇲🇦
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate Full Stack Software Engineer specializing in **Java**, **Spring Boot**, and **Angular**.
+I'm a Full Stack Software Engineer specializing in **Java**, **Spring Boot**, **Angular**, and **NestJS**.
 
-During my Final Year Internship at **ISICOD**, I contributed to the development of a modular ERP built on a **Microservices Architecture**, where I worked on backend development, frontend integration, REST APIs, and centralized authentication using **Keycloak**.
+During my Final Year Internship at **ISICOD** (Feb – Jul 2026), I contributed to a modular **ERP built on a Microservices Architecture**: backend and frontend development, REST APIs, UML modeling, and centralized authentication with **Keycloak** (OAuth2/OIDC, PKCE flow, BFF pattern, custom auth theme, role/group management via Keycloak Admin Client).
+
+I previously built a JWT-based authentication service with **NestJS** at Aepex Technologies, and developed **Fabtrack**, a Laravel web app for digitalizing industrial production tracking, at PC Design.
 
 I enjoy designing scalable, secure, and maintainable applications while continuously learning new technologies and software engineering best practices.
 
@@ -28,17 +30,33 @@ I enjoy designing scalable, secure, and maintainable applications while continuo
 
 ## 💼 Main Expertise
 
-- ☕ Java & Spring Boot
+- ☕ Java & Spring Boot 3
 - 🌐 Angular
+- 🟢 NestJS & Laravel
 - 🔐 Authentication & Authorization (Keycloak, OAuth2, OIDC, PKCE, JWT)
-- 🏗️ Microservices Architecture
+- 🏗️ Microservices Architecture & API Gateway
 - 🔄 REST APIs
-- 🐘 PostgreSQL & MySQL
+- 🐘 PostgreSQL, MySQL & Redis
 - 🚀 Docker
 - 📬 Apache Kafka
-- 🔀 Git & GitHub
-- 🧪 JUnit & Postman
+- 🔀 Git, GitHub, GitLab & GitHub Actions
+- 🧪 JUnit, PHPUnit, Playwright & Postman
+- 🛡️ OWASP ZAP
 - 📋 Agile Scrum & Jira
+
+---
+
+## 💼 Experience
+
+- **Full Stack Engineer — ISICOD** (Rabat, Morocco) — Feb – Jul 2026
+- **Full Stack Web Developer — PC Design** (Tangier, Morocco) — Jun – Jul 2025
+- **Full Stack Developer — Aepex Technologies** (Tétouan, Morocco) — Jul – Aug 2024
+- **Intern — Renault Group** (Tangier, Morocco) — Jul 2023
+
+## 🛠️ Featured Projects
+
+- **Coop2Market** — Microservices e-commerce platform for cooperatives (Spring Boot, Angular, PostgreSQL)
+- **NextGenEra** — DevSecOps web app for children's activity management (PHP, PHPUnit, Playwright, Postman, OWASP ZAP)
 
 ---
 
@@ -57,7 +75,9 @@ I enjoy designing scalable, secure, and maintainable applications while continuo
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
 
@@ -75,17 +95,30 @@ I enjoy designing scalable, secure, and maintainable applications while continuo
 ![Liquibase](https://img.shields.io/badge/Liquibase-2962FF?style=for-the-badge)
 ![MapStruct](https://img.shields.io/badge/MapStruct-009688?style=for-the-badge)
 ![JUnit](https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge)
+![PHPUnit](https://img.shields.io/badge/PHPUnit-3776AB?style=for-the-badge)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
 
 # 🏆 Certifications
 
-- Oracle Cloud Infrastructure 2025 Certified Foundations Associate
+- Oracle Cloud Infrastructure 2025 Certified Foundations Associate (1Z0-1085-25)
 - Oracle Cloud Infrastructure 2025 Certified Generative AI Professional
-- NestJS Certification
+- NestJS Certification — Aepex Technologies
+- Java Masterclass: from Zero to Hero – All Versions (in progress) — Udemy
 
 ---
 
-# 📊 GitHub Stats: ![](https://github-readme-stats.vercel.app/api?username=ChaimaeAzzouz44&theme=radical&hide_border=false&include_all_commits=false&count_private=false) ![](https://nirzak-streak-stats.vercel.app/?user=ChaimaeAzzouz44&theme=radical&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChaimaeAzzouz44&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact) --- [![](https://visitcount.itsvg.in/api?id=ChaimaeAzzouz44&icon=0&color=0)](https://visitcount.itsvg.in) <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 📊 GitHub Stats
+
+<p align="left">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ChaimaeAzzouz44&show_icons=true&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="Chaimae's GitHub stats"/>
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=ChaimaeAzzouz44&theme=radical&hide_border=false" alt="Chaimae's GitHub streak"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaimaeAzzouz44&theme=radical&hide_border=false&layout=compact" alt="Chaimae's top languages"/>
+</p>
