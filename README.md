@@ -112,13 +112,7 @@ I enjoy designing scalable, secure, and maintainable applications while continuo
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="left">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ChaimaeAzzouz44&show_icons=true&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="Chaimae's GitHub stats"/>
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=ChaimaeAzzouz44&theme=radical&hide_border=false" alt="Chaimae's GitHub streak"/>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaimaeAzzouz44&theme=radical&hide_border=false&layout=compact" alt="Chaimae's top languages"/>
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ChaimaeAzzouz44&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=ChaimaeAzzouz44&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChaimaeAzzouz44&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
